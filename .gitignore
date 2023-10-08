@@ -1,0 +1,5 @@
+# ignore all test html bookmark files
+*.html
+
+downloaded-files/
+video-logger-and-error-files/
